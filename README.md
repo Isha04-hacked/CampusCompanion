@@ -1,4 +1,4 @@
-# Campus Companion (Quiz #2)
+# Campus Companion
 
 A small Java Swing GUI app to practice GitHub collaboration.
 
